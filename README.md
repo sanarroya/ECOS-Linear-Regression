@@ -24,3 +24,7 @@ $ heroku open
 ```
 
 ## Documentation
+
+Para correr la aplicacion en Heroku ir a la siguiente direccion
+
+https://hidden-coast-89827.herokuapp.com/calculateValues
